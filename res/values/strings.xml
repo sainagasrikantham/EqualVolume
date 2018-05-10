@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Equal Volume</string>
+    <string name="current_volume_levels">Current Volume Levels</string>
+    <string name="monitored_volumes">Monitored Volumes</string>
+    <string name="stream_music">Media (Music/Video)</string>
+    <string name="stream_notifications">Notifications</string>
+    <string name="stream_system_sounds">System Sounds</string>
+    <string name="stream_voice_calls">Voice Calls</string>
+    <string name="stream_ring_tone">Ring Tone</string>
+
+</resources>

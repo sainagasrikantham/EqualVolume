@@ -1,0 +1,13 @@
+----------------
++ EQUAL VOLUME +
+----------------
+
+v1.0
+
+Feature(s) Added:
+-----------------
+- Ability to increase and decrease all streams' volume at the same time
+
+Bug(s) Fixed:
+-------------
+- None
